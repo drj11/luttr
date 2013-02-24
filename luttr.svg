@@ -18,7 +18,7 @@
    height="744.09448"
    width="1052.3622"
    id="svg2"
-   sodipodi:docname="London_Underground_merge.svg"
+   sodipodi:docname="luttr.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata3589">
@@ -906,11 +906,6 @@
      style="fill:#c9defe;fill-opacity:1;fill-rule:evenodd;stroke:#a1beff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      id="River Thames"
      inkscape:connector-curvature="0" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="zones"
-     transform="translate(2558.9825,1904.9887)" />
   <path
      sodipodi:nodetypes="czzzzzzzc"
      d="m 567.25526,141.03461 c -31.5411,30.2509 -43.9664,19.5558 -63.0822,26.5238 -19.1158,6.968 -28.6515,14.7928 -30.8059,37.0587 -2.1544,22.266 -17.8331,63.5204 -18.8951,97.5048 -1.062,33.9844 -4.8852,53.1902 -8.2836,84.6272 -3.3983,31.4371 -22.0894,74.4313 -12.1067,103.9951 9.9828,29.5638 51.4004,55.7181 72.0029,73.3876 20.6026,17.6696 40.568,3.7466 51.5138,32.9616 10.9459,29.215 3.0872,101.2415 14.5567,141.0012"
@@ -2329,7 +2324,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="notes"
-     transform="translate(0,6.6406251e-6)">
+     transform="translate(0,6.6406251e-6)"
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
