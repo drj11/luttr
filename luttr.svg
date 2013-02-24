@@ -36,9 +36,9 @@
      inkscape:current-layer="svg2"
      inkscape:window-y="24"
      inkscape:window-x="65"
-     inkscape:cy="401.74286"
-     inkscape:cx="491.59167"
-     inkscape:zoom="2"
+     inkscape:cy="617.26619"
+     inkscape:cx="512.4487"
+     inkscape:zoom="2.5037585"
      inkscape:window-height="744"
      inkscape:window-width="1301"
      inkscape:pageshadow="2"
@@ -900,6 +900,32 @@
        sodipodi:rx="4"
        sodipodi:ry="4" />
   </defs>
+  <use
+     transform="translate(-57.710788,-37.466662)"
+     id="use4361"
+     x="507.96494"
+     y="90.796852"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
+  <rect
+     y="369.16455"
+     x="-310.01251"
+     height="15.944881"
+     width="46.062992"
+     id="rect4357"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(-0.45574693,-0.8901094,0.8901094,-0.45574693,0,0)"
+     inkscape:transform-center-x="-10.171033"
+     inkscape:transform-center-y="22.026778" />
+  <rect
+     y="342.81244"
+     x="411.31696"
+     height="15.944881"
+     width="46.062992"
+     id="rect4353"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.92124115,-0.38899197,0.38899197,0.92124115,0,0)" />
   <rect
      y="510.45331"
      x="327.30252"
@@ -931,8 +957,8 @@
      id="River Thames"
      inkscape:connector-curvature="0" />
   <path
-     sodipodi:nodetypes="cccccc"
-     d="m 567.25526,141.03461 c -31.5411,30.2509 -43.9664,19.5558 -63.0822,26.5238 m -49.701,134.5635 c -1.062,33.9844 -15.99631,60.76596 -19.39471,92.20296 m 122.52111,202.76854 c 10.9459,29.215 3.0872,101.2415 14.5567,141.0012"
+     sodipodi:nodetypes="cccc"
+     d="m 454.47206,302.12191 c -1.062,33.9844 -15.99631,60.76596 -19.39471,92.20296 m 122.52111,202.76854 c 10.9459,29.215 3.0872,101.2415 14.5567,141.0012"
      style="fill:none;stroke:#0a9cda;stroke-width:4.5;stroke-linecap:round"
      id="Victoria Line"
      inkscape:connector-curvature="0" />
@@ -973,20 +999,6 @@
      x2="-39.505169"
      y1="408.80298"
      x1="-37.638714" />
-  <line
-     id="line1311"
-     style="stroke:#000000;stroke-width:4.5;stroke-linecap:square"
-     y2="52.610352"
-     x2="450.8847"
-     y1="56.059814"
-     x1="447.26532" />
-  <line
-     id="line1313"
-     style="stroke:#000000;stroke-width:4.5;stroke-linecap:square"
-     y2="59.509277"
-     x2="443.64569"
-     y1="56.059814"
-     x1="447.26532" />
   <text
      x="-42.34721"
      y="422.23804"
@@ -1018,17 +1030,17 @@
        id="tspan2789">Cottage</tspan>
   </text>
   <text
-     x="463.26532"
-     y="45.059814"
+     x="458.87192"
+     y="38.270023"
      style="font-size:11px;font-family:Verdana"
      id="text3045">
     <tspan
-       x="463.26532"
-       y="49.059814"
+       x="458.87192"
+       y="42.270023"
        id="tspan3047">Camden</tspan>
     <tspan
-       x="463.26532"
-       y="61.059814"
+       x="458.87192"
+       y="54.270023"
        id="tspan3049">Town</tspan>
   </text>
   <text
@@ -1100,11 +1112,6 @@
      id="path15853"
      inkscape:connector-curvature="0" />
   <path
-     d="m 567.25526,141.03461 c -29.6295,6.7995 -43.1168,40.7969 -63.0822,26.5238"
-     style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round"
-     id="path16139"
-     inkscape:connector-curvature="0" />
-  <path
      d="m 102.74136,359.21421 c -4.885203,19.0307 12.1067,61.3314 26.7621,86.6495"
      style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
      id="path15869"
@@ -1168,16 +1175,6 @@
      d="m 190.67406,511.12321 c 19.4567,1.9349 39.4084,4.9778 57.9845,4.0835"
      style="fill:none;stroke:#094fa3;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:4.5, 9;stroke-dashoffset:4.5"
      id="path16007"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 447.46286,55.396207 c 16.0361,16.8269 15.3989,32.2927 24.8506,50.986403"
-     style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round"
-     id="path16181"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 472.31346,106.38261 c 9.4517,18.6937 35.1518,48.4325 31.8596,61.1758"
-     style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round"
-     id="path16183"
      inkscape:connector-curvature="0" />
   <path
      d="m 539.85596,339.84641 c 3.41873,14.909 23.77327,35.7484 36.93277,39.8728"
@@ -1274,13 +1271,6 @@
      x2="680.98212"
      y1="127.11511"
      x1="681.94989" />
-  <line
-     id="line17055"
-     style="stroke:#000000;stroke-width:4.5;stroke-linecap:square"
-     y2="113.37756"
-     x2="482.94296"
-     y1="115.63367"
-     x1="478.4808" />
   <line
      id="line17087"
      style="stroke:#000000;stroke-width:4.5;stroke-linecap:square"
@@ -1703,7 +1693,7 @@
      height="570"
      xlink:href="#intersection" />
   <use
-     transform="translate(-104.51364,62.761507)"
+     transform="translate(-56.985095,46.386126)"
      id="use18060"
      x="611.04706"
      y="72.273064"
@@ -2032,17 +2022,17 @@
      height="570"
      xlink:href="#rail" />
   <text
-     x="483.33765"
-     y="89.906799"
+     x="488.52985"
+     y="91.104996"
      style="font-size:11px;font-family:Verdana"
      id="text18807">
     <tspan
-       x="483.33765"
-       y="93.906799"
+       x="488.52985"
+       y="95.104996"
        id="tspan18809">Mornington</tspan>
     <tspan
-       x="483.33765"
-       y="105.9068"
+       x="488.52985"
+       y="107.105"
        id="tspan18811">Crescent</tspan>
   </text>
   <use
@@ -2155,14 +2145,14 @@
   <text
      xml:space="preserve"
      style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-     x="505.62399"
-     y="132.00867"
+     x="553.15253"
+     y="115.63329"
      id="text4695"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan4697"
-       x="505.62399"
-       y="132.00867">King's Cross</tspan></text>
+       x="553.15253"
+       y="115.63329">King's Cross</tspan></text>
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -2713,4 +2703,20 @@
      height="15.944881"
      x="185.16753"
      y="553.04279" />
+  <rect
+     transform="matrix(-0.38352726,-0.92352955,0.92352955,-0.38352726,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect4355"
+     width="46.062992"
+     height="15.944881"
+     x="-342.85568"
+     y="396.55334" />
+  <use
+     xlink:href="#intersection"
+     height="570"
+     width="1000"
+     y="90.796852"
+     x="507.96494"
+     id="use4359"
+     transform="translate(-26.158224,20.845671)" />
 </svg>
