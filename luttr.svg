@@ -36,9 +36,9 @@
      inkscape:current-layer="svg2"
      inkscape:window-y="24"
      inkscape:window-x="65"
-     inkscape:cy="372.04724"
-     inkscape:cx="526.18109"
-     inkscape:zoom="0.80231747"
+     inkscape:cy="596.23868"
+     inkscape:cx="402.51416"
+     inkscape:zoom="2"
      inkscape:window-height="744"
      inkscape:window-width="1301"
      inkscape:pageshadow="2"
@@ -925,8 +925,8 @@
      id="Bakerloo Line"
      inkscape:connector-curvature="0" />
   <path
-     sodipodi:nodetypes="ccccsssscc"
-     d="m 247.6787,35.195524 c -3.34286,20.028143 -9.21907,29.321668 -0.29444,66.092286 10.24621,37.21124 81.5607,88.5293 107.6856,123.3629 m 80.51254,169.16911 c 25.4877,22.4273 91.21096,45.76949 121.47766,51.03279 30.2667,5.2633 49.5538,-22.3621 70.7285,-26.5238 21.0495,-4.1371 28.91,-1.8346 58.5395,-4.5505 29.6295,-2.7159 75.5636,-19.6665 119.23737,-11.7449 44.35,8.0442 106.1989,62.5435 144.5441,74.7695 38.34515,12.2261 40.46915,9.4972 85.92227,-2.7406"
+     sodipodi:nodetypes="csssscc"
+     d="m 435.5824,393.81982 c 25.4877,22.4273 91.21096,45.76949 121.47766,51.03279 30.2667,5.2633 49.5538,-22.3621 70.7285,-26.5238 21.0495,-4.1371 28.91,-1.8346 58.5395,-4.5505 29.6295,-2.7159 75.5636,-19.6665 119.23737,-11.7449 44.35,8.0442 106.1989,62.5435 144.5441,74.7695 38.34515,12.2261 40.46915,9.4972 85.92227,-2.7406"
      style="fill:none;stroke:#949699;stroke-width:4.5;stroke-linecap:round"
      id="Jubilee Line"
      inkscape:connector-curvature="0" />
@@ -980,17 +980,17 @@
        id="tspan2153">Bush</tspan>
   </text>
   <text
-     x="260.90143"
-     y="27.324614"
+     x="254.40143"
+     y="31.324614"
      style="font-size:11px;font-family:Verdana"
      id="text2785">
     <tspan
-       x="260.90143"
-       y="31.324614"
+       x="254.40143"
+       y="35.324615"
        id="tspan2787">Swiss</tspan>
     <tspan
-       x="260.90143"
-       y="43.324612"
+       x="254.40143"
+       y="47.324612"
        id="tspan2789">Cottage</tspan>
   </text>
   <text
@@ -1302,13 +1302,6 @@
      height="570"
      xlink:href="#intersection" />
   <line
-     id="line16887"
-     style="stroke:#949699;stroke-width:4.5;stroke-linecap:square"
-     y2="99.820999"
-     x2="252.53226"
-     y1="100.49504"
-     x1="247.57773" />
-  <line
      id="line16893"
      style="stroke:#949699;stroke-width:4.5;stroke-linecap:square"
      y2="481.7478"
@@ -1381,17 +1374,17 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="237.86038"
-     y="201.12442"
+     x="229.86038"
+     y="200.12442"
      style="font-size:11px;font-family:Verdana"
      id="text17525">
     <tspan
-       x="237.86038"
-       y="205.12442"
+       x="229.86038"
+       y="204.12442"
        id="tspan17527">Marylebone</tspan>
   </text>
   <use
-     transform="translate(-81.20815,39.486177)"
+     transform="translate(-153.09103,49.133323)"
      id="use17529"
      x="360.6301"
      y="144.90028"
@@ -1991,19 +1984,10 @@
        id="tspan18399">Shadwell</tspan>
   </text>
   <text
-     x="256.88425"
-     y="91.287842"
+     x="252.88425"
+     y="105.78784"
      style="font-size:11px;font-family:Verdana"
-     id="text18441">
-    <tspan
-       x="256.88425"
-       y="95.287842"
-       id="tspan18443">St. John's</tspan>
-    <tspan
-       x="256.88425"
-       y="107.28784"
-       id="tspan18445">Wood</tspan>
-  </text>
+     id="text18441">St John's Wood</text>
   <text
      x="900.70819"
      y="491.97119"
@@ -2186,13 +2170,6 @@
      width="1000"
      height="570"
      xlink:href="#rail" />
-  <line
-     id="line3610"
-     style="stroke:#949699;stroke-width:4.5;stroke-linecap:square"
-     y2="34.717598"
-     x2="254.20389"
-     y1="35.128006"
-     x1="249.22073" />
   <line
      id="line5466"
      style="stroke:#949699;stroke-width:4.5;stroke-linecap:square"
@@ -2600,4 +2577,58 @@
        x="473.03192"
        y="243.67636" />
   </g>
+  <g
+     id="g4272"
+     transform="matrix(0.73686298,0.67604212,-0.67604212,0.73686298,332.27915,-56.880063)"
+     inkscape:transform-center-x="36.075459"
+     inkscape:transform-center-y="-32.614192">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4268"
+       width="46.062992"
+       height="15.944881"
+       x="61.780361"
+       y="205.53804"
+       transform="matrix(0.98279534,-0.18469789,0.18469789,0.98279534,0,0)" />
+    <rect
+       y="205.53804"
+       x="110.2385"
+       height="15.944881"
+       width="46.062992"
+       id="rect4270"
+       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       transform="matrix(0.98279534,-0.18469789,0.18469789,0.98279534,0,0)" />
+  </g>
+  <rect
+     y="-158.02448"
+     x="223.32588"
+     height="15.944881"
+     width="46.062992"
+     id="rect4276"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.51471005,0.85736431,-0.85736431,0.51471005,0,0)" />
+  <rect
+     transform="matrix(-0.05587953,0.99843752,-0.99843752,-0.05587953,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect4278"
+     width="46.062992"
+     height="15.944881"
+     x="33.451241"
+     y="-253.27463" />
+  <use
+     xlink:href="#intersection"
+     height="570"
+     width="1000"
+     y="148.90028"
+     x="320.6301"
+     id="use4280"
+     transform="translate(-78.975128,-45.286138)" />
+  <use
+     transform="translate(-76.693597,-111.45055)"
+     id="use4282"
+     x="320.6301"
+     y="148.90028"
+     width="1000"
+     height="570"
+     xlink:href="#intersection" />
 </svg>
