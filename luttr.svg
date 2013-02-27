@@ -36,9 +36,9 @@
      inkscape:current-layer="svg2"
      inkscape:window-y="24"
      inkscape:window-x="65"
-     inkscape:cy="406.78817"
-     inkscape:cx="615.50679"
-     inkscape:zoom="1.3995495"
+     inkscape:cy="372.04724"
+     inkscape:cx="526.18109"
+     inkscape:zoom="0.80231747"
      inkscape:window-height="744"
      inkscape:window-width="1301"
      inkscape:pageshadow="2"
@@ -929,15 +929,15 @@
      y="639.66095"
      transform="matrix(0.61967297,-0.78486012,0.78486012,0.61967297,0,0)" />
   <rect
-     transform="matrix(0.96641391,-0.25699057,0.25699057,0.96641391,0,0)"
-     y="410.21567"
-     x="508.48816"
+     transform="matrix(0.9183673,-0.39572908,0.39572908,0.9183673,0,0)"
+     y="487.03192"
+     x="440.31503"
      height="15.944881"
      width="46.062992"
      id="rect3469"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     inkscape:transform-center-x="-33.710271"
-     inkscape:transform-center-y="-8.5291091" />
+     inkscape:transform-center-x="24.921094"
+     inkscape:transform-center-y="3.688858" />
   <rect
      inkscape:transform-center-y="-13.360976"
      inkscape:transform-center-x="10.572036"
@@ -1620,13 +1620,13 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="600.31635"
-     y="290.58258"
+     x="599.69177"
+     y="295.57916"
      style="font-size:11px;font-family:Verdana"
      id="text17765">
     <tspan
-       x="600.31635"
-       y="294.58258"
+       x="599.69177"
+       y="299.57916"
        id="tspan17767">Holborn</tspan>
   </text>
   <use
@@ -1638,21 +1638,21 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="523.66449"
-     y="243.25267"
+     x="525.53821"
+     y="242.6281"
      style="font-size:11px;font-family:Verdana"
      id="text17868">
     <tspan
-       x="523.66449"
-       y="247.25267"
+       x="525.53821"
+       y="246.6281"
        id="tspan17870">Tottenham</tspan>
     <tspan
-       x="523.66449"
-       y="259.25266"
+       x="525.53821"
+       y="258.62808"
        id="tspan17872">Court Road</tspan>
     <tspan
-       x="523.66449"
-       y="271.25266"
+       x="525.53821"
+       y="270.62808"
        id="tspan17874" />
   </text>
   <use
@@ -2660,28 +2660,24 @@
      transform="matrix(0.99879848,0.04900611,-0.04900611,0.99879848,0,0)"
      inkscape:transform-center-x="29.204499"
      inkscape:transform-center-y="-2.3025379" />
-  <g
-     transform="matrix(-0.01016995,0.99994829,-0.99994829,-0.01016995,707.16179,79.849158)"
-     id="g4290"
-     inkscape:transform-center-x="-16.939354"
-     inkscape:transform-center-y="44.186655">
-    <rect
-       transform="matrix(0.98279534,-0.18469789,0.18469789,0.98279534,0,0)"
-       y="205.53804"
-       x="61.780361"
-       height="15.944881"
-       width="46.062992"
-       id="rect4292"
-       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <rect
-       transform="matrix(0.98279534,-0.18469789,0.18469789,0.98279534,0,0)"
-       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect4294"
-       width="46.062992"
-       height="15.944881"
-       x="110.2385"
-       y="205.53804" />
-  </g>
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect4292"
+     width="46.062992"
+     height="15.944881"
+     x="230.20641"
+     y="-492.75156"
+     transform="matrix(0.10595779,0.99437063,-0.99437063,0.10595779,0,0)"
+     inkscape:transform-center-x="11.255014"
+     inkscape:transform-center-y="-22.069599" />
+  <rect
+     y="-472.38663"
+     x="312.2475"
+     height="15.944881"
+     width="46.062992"
+     id="rect4294"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.17469336,0.98462289,-0.98462289,0.17469336,0,0)" />
   <rect
      inkscape:transform-center-y="19.890055"
      inkscape:transform-center-x="14.2885"
@@ -3032,26 +3028,58 @@
      x="674.63367"
      y="173.09737"
      transform="matrix(0.99280597,0.1197343,-0.1197343,0.99280597,0,0)" />
+  <rect
+     transform="matrix(0.3480641,0.93747074,-0.93747074,0.3480641,0,0)"
+     y="-492.33188"
+     x="354.64175"
+     height="15.944881"
+     width="46.062992"
+     id="rect3505"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     inkscape:transform-center-x="-2.0653896"
+     inkscape:transform-center-y="-27.038098" />
+  <rect
+     transform="matrix(0.01068475,0.99994292,-0.99994292,0.01068475,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3507"
+     width="46.062992"
+     height="15.944881"
+     x="221.07312"
+     y="-601.54999"
+     inkscape:transform-center-x="-9.2212316"
+     inkscape:transform-center-y="23.668498" />
   <g
-     inkscape:transform-center-y="44.186655"
-     inkscape:transform-center-x="-16.939354"
-     id="g3503"
-     transform="matrix(-0.01016995,0.99994829,-0.99994829,-0.01016995,770.75368,64.84433)">
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3505"
-       width="46.062992"
-       height="15.944881"
-       x="61.780361"
-       y="205.53804"
-       transform="matrix(0.98279534,-0.18469789,0.18469789,0.98279534,0,0)" />
-    <rect
-       y="205.53804"
-       x="110.2385"
-       height="15.944881"
-       width="46.062992"
-       id="rect3507"
-       style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       transform="matrix(0.98279534,-0.18469789,0.18469789,0.98279534,0,0)" />
+     inkscape:transform-center-y="-2.1833743"
+     inkscape:transform-center-x="-71.768215"
+     transform="matrix(0.99930798,-0.03719637,0.03719637,0.99930798,291.65637,-301.10095)"
+     id="g3511">
+    <g
+       id="g3519"
+       transform="matrix(0.75333065,0.65764195,-0.65764195,0.75333065,416.819,-96.719944)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3513"
+         width="46.062992"
+         height="15.944881"
+         x="209.92017"
+         y="532.60443"
+         transform="matrix(0.99414261,-0.10807625,0.10807625,0.99414261,0,0)" />
+      <rect
+         y="532.60443"
+         x="258.37833"
+         height="15.944881"
+         width="46.062992"
+         id="rect3515"
+         style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.99414261,-0.10807625,0.10807625,0.99414261,0,0)" />
+      <rect
+         y="532.60443"
+         x="306.83649"
+         height="15.944881"
+         width="46.062992"
+         id="rect3517"
+         style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         transform="matrix(0.99414261,-0.10807625,0.10807625,0.99414261,0,0)" />
+    </g>
   </g>
 </svg>
