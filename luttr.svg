@@ -901,6 +901,14 @@
        sodipodi:ry="4" />
   </defs>
   <rect
+     y="-192.04504"
+     x="782.49872"
+     height="15.944881"
+     width="46.062992"
+     id="rect3487"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.80557067,0.5924997,-0.5924997,0.80557067,0,0)" />
+  <rect
      transform="matrix(0.85943899,0.51123832,-0.51123832,0.85943899,0,0)"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3501"
@@ -2889,25 +2897,25 @@
      id="rect3399"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <rect
-     transform="matrix(0.87297317,-0.48776822,0.48776822,0.87297317,0,0)"
+     transform="matrix(0.99995439,-0.00955133,0.00955133,0.99995439,0,0)"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3401"
      width="46.062992"
      height="15.944881"
-     x="415.65884"
-     y="663.85706"
-     inkscape:transform-center-x="-15.233136"
-     inkscape:transform-center-y="-19.128282" />
+     x="689.81061"
+     y="382.43726"
+     inkscape:transform-center-x="-22.538728"
+     inkscape:transform-center-y="-9.4839292" />
   <rect
-     transform="matrix(0.8584745,-0.51285626,0.51285626,0.8584745,0,0)"
-     y="625.6073"
-     x="320.04132"
+     transform="matrix(0.78046264,-0.62520243,0.62520243,0.78046264,0,0)"
+     y="664.88116"
+     x="230.21852"
      height="15.944881"
      width="46.062992"
      id="rect3422"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     inkscape:transform-center-x="-28.091788"
-     inkscape:transform-center-y="-15.794367" />
+     inkscape:transform-center-x="23.857859"
+     inkscape:transform-center-y="8.0532547" />
   <rect
      y="704.95752"
      x="-540.49707"
@@ -2917,13 +2925,13 @@
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      transform="matrix(-0.19876738,-0.9800467,0.9800467,-0.19876738,0,0)" />
   <rect
-     transform="matrix(0.99143885,-0.13057184,0.13057184,0.99143885,0,0)"
+     transform="matrix(0.80126448,-0.59831032,0.59831032,0.80126448,0,0)"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3403"
      width="46.062992"
      height="15.944881"
-     x="685.58673"
-     y="443.85129" />
+     x="371.2518"
+     y="745.18781" />
   <rect
      transform="matrix(0.86014956,-0.5100419,0.5100419,0.86014956,0,0)"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2985,31 +2993,25 @@
      inkscape:transform-center-x="10.572036"
      inkscape:transform-center-y="-13.360976" />
   <rect
-     y="425.15305"
-     x="685.88721"
-     height="15.944881"
-     width="46.062992"
-     id="rect3487"
-     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     transform="matrix(0.99143885,-0.13057184,0.13057184,0.99143885,0,0)" />
-  <rect
-     transform="matrix(0.99143885,-0.13057184,0.13057184,0.99143885,0,0)"
+     transform="matrix(0.96251305,-0.27123537,0.27123537,0.96251305,0,0)"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect3489"
      width="46.062992"
      height="15.944881"
-     x="636.87646"
-     y="425.18454" />
+     x="571.03534"
+     y="493.08691"
+     inkscape:transform-center-x="25.017492"
+     inkscape:transform-center-y="0.010945725" />
   <rect
-     y="464.39139"
-     x="558.75"
+     y="606.49579"
+     x="394.49542"
      height="15.944881"
      width="46.062992"
      id="rect3491"
      style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     transform="matrix(0.98122421,-0.19287057,0.19287057,0.98122421,0,0)"
-     inkscape:transform-center-x="25.027405"
-     inkscape:transform-center-y="-3.4292229" />
+     transform="matrix(0.87801867,-0.47862639,0.47862639,0.87801867,0,0)"
+     inkscape:transform-center-x="-14.43396"
+     inkscape:transform-center-y="-18.331179" />
   <rect
      y="-197.96217"
      x="771.64856"
