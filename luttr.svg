@@ -36,9 +36,9 @@
      inkscape:current-layer="svg2"
      inkscape:window-y="24"
      inkscape:window-x="65"
-     inkscape:cy="372.04724"
-     inkscape:cx="526.18109"
-     inkscape:zoom="0.80231747"
+     inkscape:cy="313.18649"
+     inkscape:cx="672.28356"
+     inkscape:zoom="1"
      inkscape:window-height="744"
      inkscape:window-width="1301"
      inkscape:pageshadow="2"
@@ -901,6 +901,34 @@
        sodipodi:ry="4" />
   </defs>
   <rect
+     y="94.578224"
+     x="424.64636"
+     height="15.944881"
+     width="46.062992"
+     id="rect3412"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.47788181,0.87842414,-0.87842414,0.47788181,0,0)"
+     inkscape:transform-center-x="-4.048987"
+     inkscape:transform-center-y="24.949817" />
+  <rect
+     transform="matrix(0.95706478,0.28987413,-0.28987413,0.95706478,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3414"
+     width="46.062992"
+     height="15.944881"
+     x="207.18918"
+     y="471.1279" />
+  <rect
+     inkscape:transform-center-y="-10.745772"
+     inkscape:transform-center-x="13.221639"
+     transform="matrix(0.99609652,0.08827073,-0.08827073,0.99609652,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3402"
+     width="46.062992"
+     height="15.944881"
+     x="247.14662"
+     y="483.52441" />
+  <rect
      y="-192.04504"
      x="782.49872"
      height="15.944881"
@@ -1151,12 +1179,6 @@
      id="Jubilee Line"
      inkscape:connector-curvature="0" />
   <path
-     d="m -37.53995,408.47111 c 19.1084,7.3168 116.689437,-41.11816 140.05314,-49.27236"
-     style="fill:none;stroke:#f15b2e;stroke-width:4.5;stroke-linecap:round"
-     id="Central Line"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
      sodipodi:nodetypes="ccccccc"
      d="m 718.26996,513.14551 c 11.6819,-21.5781 22.408,-50.7854 36.9572,-69.3041 14.5493,-18.5187 44.28497,-21.0725 50.33827,-41.808 m -14.0182,-136.6248 c 1.3805,-22.0837 26.5497,-55.3745 8.2835,-78.4824 -18.26617,-23.1078 -79.11817,-52.516 -117.88077,-60.1646 -38.7626,-7.6486 -85.0653,7.4735 -114.6947,14.273"
      style="fill:none;stroke:#000000;stroke-width:4.5"
@@ -1165,26 +1187,10 @@
   <line
      id="line997"
      style="stroke:#f15b2e;stroke-width:4.5;stroke-linecap:square"
-     y2="413.44141"
-     x2="-39.505169"
-     y1="408.80298"
-     x1="-37.638714" />
-  <text
-     x="-42.34721"
-     y="422.23804"
-     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
-     id="text2149">
-    <tspan
-       x="-42.34721"
-       y="426.23804"
-       style="font-family:Verdana"
-       id="tspan2151">Shepherd's</tspan>
-    <tspan
-       x="-42.34721"
-       y="438.23804"
-       style="font-family:Verdana"
-       id="tspan2153">Bush</tspan>
-  </text>
+     y2="331.12146"
+     x2="22.869829"
+     y1="326.12292"
+     x1="22.986288" />
   <text
      x="254.40143"
      y="31.324614"
@@ -1224,11 +1230,6 @@
        id="tspan3095">Stockwell</tspan>
   </text>
   <path
-     d="m 14.17145,472.38751 c 14.2489,16.9032 51.4978,95.3063 84.746707,64.2094"
-     style="fill:none;stroke:#00a166;stroke-width:4.5"
-     id="path16431"
-     inkscape:connector-curvature="0" />
-  <path
      d="m 868.01043,355.13061 c 11.4694,-5.9503 13.0624,-32.2991 7.0091,-45.8916"
      style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
      id="path15843"
@@ -1249,21 +1250,6 @@
      id="path15853"
      inkscape:connector-curvature="0" />
   <path
-     d="m 102.74136,359.21421 c -4.885203,19.0307 12.1067,61.3314 26.7621,86.6495"
-     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
-     id="path15869"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 129.50346,445.86371 c 14.6555,25.3182 34.3114,61.7023 61.1706,65.2595"
-     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
-     id="path15871"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 190.67406,511.12321 c 19.8592,1.5571 37.948,4.5185 57.9845,4.0835"
-     style="fill:none;stroke:#ffe02b;stroke-width:4.5;stroke-linecap:round"
-     id="path15873"
-     inkscape:connector-curvature="0" />
-  <path
      d="m 732.28826,247.05201 c -17.7352,-2.8909 -19.6468,18.6807 -47.1523,1.0112"
      style="fill:none;stroke:#f491a8;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:4.5, 9;stroke-dashoffset:3.6"
      id="path15967"
@@ -1272,37 +1258,6 @@
      d="m 685.13596,248.06321 c -27.5055,-17.6696 -85.3839,-97.3447 -117.8807,-107.0286"
      style="fill:none;stroke:#f491a8;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:4.5, 9;stroke-dashoffset:1.8"
      id="path15969"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 98.918157,536.59691 c 32.921703,-6.793 67.799203,-28.4087 91.755903,-25.4737"
-     style="fill:none;stroke:#094fa3;stroke-width:4.5;stroke-linecap:round"
-     id="path16005"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 190.67406,511.12321 c 19.4567,1.9349 39.4084,4.9778 57.9845,4.0835"
-     style="fill:none;stroke:#094fa3;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:4.5, 9;stroke-dashoffset:4.5"
-     id="path16007"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 98.918157,536.59691 c 26.563003,-4.9559 69.299203,-28.9087 91.755903,-25.4737"
-     style="fill:none;stroke:#00a166;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:9, 9;stroke-dashoffset:0"
-     id="path16335"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 190.67406,511.12321 c 17.9567,1.9349 45.63963,1.87533 66.79507,4.96456"
-     style="fill:none;stroke:#00a166;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:4.5, 9;stroke-dashoffset:0"
-     id="path16337"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
-  <path
-     d="m 102.74136,359.21421 c -4.885203,19.0307 14.8993,67.0858 26.7621,86.6495"
-     style="fill:none;stroke:#00a166;stroke-width:4.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:9, 9;stroke-dashoffset:0"
-     id="path16411"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 129.50346,445.86371 c 19.3629,28.0638 -5.1117,82.9568 -30.585303,90.7332"
-     style="fill:none;stroke:#00a166;stroke-width:4.5;stroke-linecap:round"
-     id="path16413"
      inkscape:connector-curvature="0" />
   <path
      d="m 567.25526,141.03461 c 32.4968,9.6839 90.3752,89.359 117.8807,107.0286"
@@ -1664,18 +1619,18 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="97.142532"
-     y="338.71411"
+     x="102.14253"
+     y="334.21411"
      style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:end;font-family:Verdana"
      id="text17883">
     <tspan
-       x="97.142532"
-       y="342.71411"
+       x="102.14253"
+       y="338.21411"
        style="font-family:Verdana"
        id="tspan17885">Notting</tspan>
     <tspan
-       x="97.142532"
-       y="354.71411"
+       x="102.14253"
+       y="350.21411"
        style="font-family:Verdana"
        id="tspan17887">Hill Gate</tspan>
   </text>
@@ -1774,23 +1729,23 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="188.92281"
-     y="522.85547"
+     x="207.42281"
+     y="481.35547"
      style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
      id="text18063">
     <tspan
-       x="188.92281"
-       y="526.85547"
+       x="207.42281"
+       y="485.35547"
        style="font-family:Verdana"
        id="tspan18065">Gloucester</tspan>
     <tspan
-       x="188.92281"
-       y="538.85547"
+       x="207.42281"
+       y="497.35547"
        style="font-family:Verdana"
        id="tspan18067">Road</tspan>
   </text>
   <use
-     transform="translate(-3.7918501,76.761607)"
+     transform="translate(5.2081499,99.261607)"
      id="High Street Kensington"
      x="133.29533"
      y="369.1022"
@@ -1798,21 +1753,21 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="135.85713"
-     y="435.13159"
+     x="145.35713"
+     y="444.63159"
      style="font-size:11px;font-family:Verdana"
      id="text18070">
     <tspan
-       x="135.85713"
-       y="439.13159"
+       x="145.35713"
+       y="448.63159"
        id="tspan18072">High Street</tspan>
     <tspan
-       x="135.85713"
-       y="451.13159"
+       x="145.35713"
+       y="460.63159"
        id="tspan18074">Kensington</tspan>
     <tspan
-       x="135.85713"
-       y="463.13159"
+       x="145.35713"
+       y="472.63159"
        id="tspan18076" />
   </text>
   <use
@@ -1824,18 +1779,18 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="249.11887"
-     y="526.29248"
+     x="252.61887"
+     y="531.79248"
      style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;text-anchor:middle;font-family:Verdana"
      id="text18079">
     <tspan
-       x="249.11887"
-       y="530.29248"
+       x="252.61887"
+       y="535.79248"
        style="font-family:Verdana"
        id="tspan18081">South</tspan>
     <tspan
-       x="249.11887"
-       y="542.29248"
+       x="252.61887"
+       y="547.79248"
        style="font-family:Verdana"
        id="tspan18083">Kensington</tspan>
   </text>
@@ -1908,7 +1863,7 @@
        id="tspan18116">Whitechapel</tspan>
   </text>
   <use
-     transform="translate(-3.7918501,76.761607)"
+     transform="translate(12.20815,75.261607)"
      id="Earl's Court"
      x="102.71002"
      y="459.83533"
@@ -1916,17 +1871,17 @@
      height="570"
      xlink:href="#intersection" />
   <text
-     x="103.41816"
-     y="543.59692"
+     x="107.91816"
+     y="552.59692"
      style="font-size:11px;font-family:Verdana"
      id="text18225">
     <tspan
-       x="103.41816"
-       y="547.59692"
+       x="107.91816"
+       y="556.59692"
        id="tspan18227">Earl's</tspan>
     <tspan
-       x="103.41816"
-       y="559.59692"
+       x="107.91816"
+       y="568.59692"
        id="tspan18229">Court</tspan>
   </text>
   <use
@@ -3082,4 +3037,85 @@
          transform="matrix(0.99414261,-0.10807625,0.10807625,0.99414261,0,0)" />
     </g>
   </g>
+  <rect
+     y="250.81502"
+     x="424.4017"
+     height="15.944881"
+     width="46.062992"
+     id="rect3404"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.75045284,0.660924,-0.660924,0.75045284,0,0)" />
+  <rect
+     transform="matrix(0.94563793,-0.3252213,0.3252213,0.94563793,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3406"
+     width="46.062992"
+     height="15.944881"
+     x="-49.801323"
+     y="539.51093" />
+  <rect
+     y="279.04666"
+     x="-451.6713"
+     height="15.944881"
+     width="46.062992"
+     id="rect3408"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.33801495,-0.94114074,0.94114074,0.33801495,0,0)" />
+  <rect
+     transform="matrix(0.21665829,0.9762475,-0.9762475,0.21665829,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3410"
+     width="46.062992"
+     height="15.944881"
+     x="385.90607"
+     y="-25.596481" />
+  <rect
+     transform="matrix(0.69710835,0.71696579,-0.71696579,0.69710835,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3416"
+     width="46.062992"
+     height="15.944881"
+     x="360.28308"
+     y="312.78641" />
+  <rect
+     transform="matrix(0.75147339,-0.6597634,0.6597634,0.75147339,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3418"
+     width="46.062992"
+     height="15.944881"
+     x="-217.4911"
+     y="323.21799" />
+  <rect
+     transform="matrix(0.00810235,-0.99996718,0.99996718,0.00810235,0,0)"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3423"
+     width="46.062992"
+     height="15.944881"
+     x="-385.55734"
+     y="17.336508"
+     inkscape:transform-center-x="-9.0466044"
+     inkscape:transform-center-y="-23.073579" />
+  <rect
+     y="370.91287"
+     x="115.63501"
+     height="15.944881"
+     width="46.062992"
+     id="rect3425"
+     style="fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     transform="matrix(0.96451501,0.26402802,-0.26402802,0.96451501,0,0)" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text3449"
+     y="304.55905"
+     x="17.045898"
+     style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+     xml:space="preserve"><tspan
+       id="tspan3453"
+       y="304.55905"
+       x="17.045898"
+       sodipodi:role="line">Shepherd's</tspan><tspan
+       y="318.30905"
+       x="17.045898"
+       sodipodi:role="line"
+       id="tspan3457">Bush</tspan></text>
 </svg>
